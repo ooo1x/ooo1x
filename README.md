@@ -19,8 +19,9 @@ education:   M.Sc. Electrical Engineering & Information Technology
              University of Stuttgart 🇩🇪
 focus:       Reinforcement Learning · Human–Robot Collaboration
                                     · Safe Robotics
-currently:   Building fault-tolerant robotic systems with DRL
-contact:     yixuan.wu@deepfluid.ai
+             Agentic AI for Engineering · AI Infrastructure
+currently:   PhD Student at  University of Stuttgart
+contact:     yixuan.wuu@outlook.com
 ```
 
 ---
