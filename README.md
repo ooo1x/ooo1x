@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/ooo1x">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Yixuan+Wu;Master+Student+%40+Uni+Stuttgart; alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Yixuan+Wu;Master+Student+%40+Uni+Stuttgart alt="Typing SVG" />
   </a>
 </h1>
 
