@@ -1,57 +1,53 @@
 <h1 align="center">
   <a href="https://github.com/ooo1x">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Yixuan+Wu;PhD+Student+%40+Uni+Stuttgart" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C97B5A&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Yixuan+Wu;PhD+Student+%40+Uni+Stuttgart" alt="Typing SVG" />
   </a>
 </h1>
+<br />
 
+<br />
 
----
+I'm a PhD student at the [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/), University of Stuttgart. My work sits at the intersection of **safe reinforcement learning**, **human–robot collaboration**, and **agentic AI for engineering simulation** — building learning-based control that's safe enough to deploy alongside humans, and exploring how LLM agents can interface with classical numerics.
 
-### 🧑‍🎓 About Me
+<br />
 
-```yaml
-name:        Yixuan Wu
-education:   M.Sc. Electrical Engineering & Information Technology
-             University of Stuttgart 
-focus:       Reinforcement Learning · Human–Robot Collaboration
-                                    · Safe Robotics
-             Agentic AI for Engineering · AI Infrastructure
-currently:   PhD Student at University of Stuttgart
-contact:     yixuan.wuu@outlook.com
+### ━━━━  Currently
+
+```text
+2026 →    PhD student       SimTech, University of Stuttgart
+2026 →    Full-stack engineer  Deep Fluid UG  ·  AI-powered CFD platform
+2024–25   Working student      Mercedes-Benz AG  ·  RL & data tooling
 ```
 
----
+<br />
 
-### 🛠 Tech Stack
+### ━━━━  Selected work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,linux,bash,git,github,vscode,docker,latex" />
-</p>
+**RELAX** &nbsp;·&nbsp; *Reinforcement Learning-based Execution Mitigation in HRC*  
+Real-time joint-deviation compensation for the Franka Emika Panda in safety-critical pick-and-place. Hybrid C++/Python framework with **DDPG · TD3 · PPO** baselines, fully integrated with ROS, Gazebo and MoveIt!.  
+<sub>`MASTER'S THESIS` &nbsp;·&nbsp; `IAS, UNI STUTTGART` &nbsp;·&nbsp; `2025`</sub>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gazebo-FF6E00?style=for-the-badge&logo=gazebo&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MoveIt!-0A6EBD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Stable--Baselines3-EE4C2C?style=for-the-badge" />
-</p>
+**`automotive_feature_engineering`** &nbsp;·&nbsp; **`mf4_ai_importer`**  
+Open-source Python toolkits for processing MF4 measurement data and engineering features from automotive signals. Built and maintained during a year at Mercedes-Benz AG.  
+<sub>`OPEN SOURCE` &nbsp;·&nbsp; `PYPI`</sub>
 
----
+**Deep Fluid platform**  
+End-to-end AI-driven CFD: natural language → OpenFOAM → automated reports → 3D visualization. Lead on backend, agent orchestration, and AWS infrastructure (ECS · Lambda · CloudFormation).  
+<sub>`PRODUCTION` &nbsp;·&nbsp; `2026 →`</sub>
 
-### 🚀 Featured Project
+<br />
 
-> **RELAX** — *Reinforcement Learning-based Execution Mitigation in Human-Robot Collaboration* (Master Thesis, 2025).
-> A hybrid C++/Python framework using **DDPG · TD3 · PPO** to correct joint-level faults of a Franka Emika Panda in real time, while keeping the human collaborator safe.
+### ━━━━  Stack
 
----
+```text
+robotics       ROS  ·  MoveIt!  ·  Gazebo  ·  Franka Panda
+learning       PyTorch  ·  Stable-Baselines3  ·  scikit-learn
+backend        FastAPI  ·  Docker  ·  AWS (ECS · Lambda · CloudFormation)
+scientific     OpenFOAM  ·  PyVista  ·  vtk.js  ·  NumPy
+languages      Python  ·  TypeScript  ·  C++  ·  Linux
+```
 
-### ✍️ Quote of the Day
+<br />
+<br />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <i>⚡ "Make robots safer, one corrective step at a time." ⚡</i>
-</p>
+<sub><i>Make robots safer, one corrective step at a time.</i></sub>
