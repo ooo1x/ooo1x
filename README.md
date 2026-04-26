@@ -11,7 +11,7 @@
 ```yaml
 name:        Yixuan Wu
 education:   M.Sc. Electrical Engineering & Information Technology
-             University of Stuttgart 🇩🇪
+             University of Stuttgart 
 focus:       Reinforcement Learning · Human–Robot Collaboration
                                     · Safe Robotics
              Agentic AI for Engineering · AI Infrastructure
