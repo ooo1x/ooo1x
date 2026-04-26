@@ -4,11 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ooo1x&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ooo1x?label=Followers&style=social" alt="followers" />
-</p>
-
 ---
 
 ### 🧑‍🎓 About Me
