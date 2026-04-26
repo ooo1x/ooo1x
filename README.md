@@ -1,34 +1,83 @@
-### Hi there 👋, I'm Yixuan Wu
+<h1 align="center">
+  <a href="https://github.com/ooo1x">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Yixuan+Wu;Master+Student+%40+Uni+Stuttgart;Reinforcement+Learning+%26+Robotics+%F0%9F%A4%96;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</h1>
 
-🎓 M.Sc. in Electrical Engineering & Information Technology — **University of Stuttgart**
-🤖 Research interest: **Reinforcement Learning · Human–Robot Collaboration · Safe Robotics**
-📫 yixuan.wu@deepfluid.ai
-
----
-
-#### 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/-Gazebo-FF6E00?logo=gazebo&logoColor=white)
-![MoveIt](https://img.shields.io/badge/-MoveIt!-0A6EBD)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ooo1x&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ooo1x?label=Followers&style=social" alt="followers" />
+</p>
 
 ---
 
-#### 🚀 Featured Project
+### 🧑‍🎓 About Me
 
-🔧 **[RELAX](https://github.com/ooo1x/RELAX)** — Reinforcement Learning-based Execution Mitigation in Human-Robot Collaboration (Master Thesis)
-> A hybrid C++/Python framework that uses DDPG, TD3, and PPO to correct joint-level faults of a Franka Emika Panda robot in real time, while keeping the human collaborator safe.
+```yaml
+name:        Yixuan Wu
+education:   M.Sc. Electrical Engineering & Information Technology
+             University of Stuttgart 🇩🇪
+focus:       Reinforcement Learning · Human–Robot Collaboration
+                                    · Safe Robotics
+currently:   Building fault-tolerant robotic systems with DRL
+contact:     yixuan.wu@deepfluid.ai
+```
 
 ---
 
-#### 📊 GitHub Stats
+### 🛠 Tech Stack
 
-![Yixuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooo1x&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooo1x&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,linux,bash,git,github,vscode,docker,latex" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=ooo1x&color=blueviolet)
+<p align="center">
+  <img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gazebo-FF6E00?style=for-the-badge&logo=gazebo&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MoveIt!-0A6EBD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Stable--Baselines3-EE4C2C?style=for-the-badge" />
+</p>
+
+---
+
+### 🚀 Featured Project
+
+<p align="center">
+  <a href="https://github.com/ooo1x/RELAX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ooo1x&repo=RELAX&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+> **RELAX** — *Reinforcement Learning-based Execution Mitigation in Human-Robot Collaboration* (Master Thesis, 2025).
+> A hybrid C++/Python framework using **DDPG · TD3 · PPO** to correct joint-level faults of a Franka Emika Panda in real time, while keeping the human collaborator safe.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ooo1x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooo1x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ooo1x&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ooo1x&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### ✍️ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ "Make robots safer, one corrective step at a time." ⚡</i>
+</p>
