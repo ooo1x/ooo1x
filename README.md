@@ -15,7 +15,7 @@ education:   M.Sc. Electrical Engineering & Information Technology
 focus:       Reinforcement Learning · Human–Robot Collaboration
                                     · Safe Robotics
              Agentic AI for Engineering · AI Infrastructure
-currently:   PhD Student at  University of Stuttgart
+currently:   PhD Student at University of Stuttgart
 contact:     yixuan.wuu@outlook.com
 ```
 
