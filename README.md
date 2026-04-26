@@ -38,12 +38,6 @@ contact:     yixuan.wuu@outlook.com
 
 ### 🚀 Featured Project
 
-<p align="center">
-  <a href="https://github.com/ooo1x/RELAX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ooo1x&repo=RELAX&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 > **RELAX** — *Reinforcement Learning-based Execution Mitigation in Human-Robot Collaboration* (Master Thesis, 2025).
 > A hybrid C++/Python framework using **DDPG · TD3 · PPO** to correct joint-level faults of a Franka Emika Panda in real time, while keeping the human collaborator safe.
 
