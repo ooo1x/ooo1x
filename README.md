@@ -43,23 +43,6 @@ contact:     yixuan.wuu@outlook.com
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ooo1x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooo1x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ooo1x&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ooo1x&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ### ✍️ Quote of the Day
 
 <p align="center">
