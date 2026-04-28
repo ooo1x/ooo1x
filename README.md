@@ -29,7 +29,7 @@ Real-time joint-deviation compensation for the Franka Emika Panda in safety-crit
 
 **Deep Fluid platform**  
 End-to-end AI-driven CFD: natural language → OpenFOAM → automated reports → 3D visualization. Lead on backend, agent orchestration, and AWS infrastructure (ECS · Lambda · CloudFormation).  
-<sub>`PRODUCTION` &nbsp;·&nbsp; `2026 →`</sub>
+<sub>`PRODUCTION` &nbsp;·&nbsp; `2026`</sub>
 
 <br />
 
