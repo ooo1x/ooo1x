@@ -14,9 +14,10 @@ I'm a PhD student at the [Cluster of Excellence SimTech](https://www.simtech.uni
 ### Currently
 
 ```text
-2026 →    PhD student          SimTech, University of Stuttgart
+2026 →    PhD student          University of Stuttgart
 2026 →    Full-stack engineer  Deep Fluid UG  ·  AI-powered CFD platform
 2024–25   Working student      Mercedes-Benz AG  ·  RL & data tooling
+2024      Student research assistant University of Stuttgart
 ```
 
 <br />
