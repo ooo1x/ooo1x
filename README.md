@@ -14,7 +14,7 @@ I'm a PhD student at the [Cluster of Excellence SimTech](https://www.simtech.uni
 ### ━━━━  Currently
 
 ```text
-2026 →    PhD student       SimTech, University of Stuttgart
+2026 →    PhD student          SimTech, University of Stuttgart
 2026 →    Full-stack engineer  Deep Fluid UG  ·  AI-powered CFD platform
 2024–25   Working student      Mercedes-Benz AG  ·  RL & data tooling
 ```
@@ -26,10 +26,6 @@ I'm a PhD student at the [Cluster of Excellence SimTech](https://www.simtech.uni
 **RELAX** &nbsp;·&nbsp; *Reinforcement Learning-based Execution Mitigation in HRC*  
 Real-time joint-deviation compensation for the Franka Emika Panda in safety-critical pick-and-place. Hybrid C++/Python framework with **DDPG · TD3 · PPO** baselines, fully integrated with ROS, Gazebo and MoveIt!.  
 <sub>`MASTER'S THESIS` &nbsp;·&nbsp; `IAS, UNI STUTTGART` &nbsp;·&nbsp; `2025`</sub>
-
-**`automotive_feature_engineering`** &nbsp;·&nbsp; **`mf4_ai_importer`**  
-Open-source Python toolkits for processing MF4 measurement data and engineering features from automotive signals. Built and maintained during a year at Mercedes-Benz AG.  
-<sub>`OPEN SOURCE` &nbsp;·&nbsp; `PYPI`</sub>
 
 **Deep Fluid platform**  
 End-to-end AI-driven CFD: natural language → OpenFOAM → automated reports → 3D visualization. Lead on backend, agent orchestration, and AWS infrastructure (ECS · Lambda · CloudFormation).  
