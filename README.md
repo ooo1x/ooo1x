@@ -47,4 +47,4 @@ languages      Python  ·  TypeScript  ·  C++  ·  Linux
 <br />
 <br />
 
-<sub><i>Make robots safer, one corrective step at a time.</i></sub>
+  <sub><i>Amor Fati</i></sub>
