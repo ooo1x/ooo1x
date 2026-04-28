@@ -7,7 +7,7 @@
 
 <br />
 
-I'm a PhD student at the [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/), University of Stuttgart. My work sits at the intersection of **safe reinforcement learning**, **human–robot collaboration**, **agentic AI for engineering simulation**, **full stack engineering simulation**— building learning-based control that's safe enough to deploy alongside humans, and exploring how LLM agents can interface with classical numerics.
+I'm a PhD student at the [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de/), University of Stuttgart. My work sits at the intersection of **safe reinforcement learning**, **human–robot collaboration**, **agentic AI for engineering simulation**, **full stack engineering**— building learning-based control that's safe enough to deploy alongside humans, and exploring how LLM agents can interface with classical numerics.
 
 <br />
 
